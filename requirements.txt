@@ -1,0 +1,10 @@
+streamlit
+pyttsx3
+SpeechRecognition
+pandas
+sentence-transformers
+scikit-learn
+pywhatkit
+wikipedia
+requests
+pyjokes

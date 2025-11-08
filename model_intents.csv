@@ -1,0 +1,66 @@
+﻿patterns,intent,response
+hello,greeting,Hello! How can I help you today?
+hi,greeting,Hi there! Ready to assist you.
+hey,greeting,Hey! How can I help you?
+good morning,greeting,Good morning! How can I help you today?
+good afternoon,greeting,Good afternoon! How can I assist you?
+good evening,greeting,Good evening! Hope your day was great.
+hey there,greeting,Hey there! How’s it going?
+hi there,greeting,Hi! What can I do for you?
+greetings,greeting,Greetings! How can I help you today?
+what’s up,greeting,"Not much, I'm here to help you. How can i assist?"
+yo,greeting,Yo! Ready to help you out.
+what is your name,name_query,I am your AI assistant.
+who are you,name_query,"I am your virtual assistant , here to help you."
+tell me your name,name_query,My name is AI Assistant.
+may I know your name,name_query,I am your friendly AI assistant.
+your name,name_query,I am called AI Assistant.
+how are you,howare_query,I am doing great! How can I help you?
+how’s it going,howare_query,Everything’s perfect. What about you?
+how are you doing,howare_query,"I’m fine, thanks for asking. How can i assist?"
+are you okay,howare_query,"I’m working perfectly, thanks!"
+what’s up,howare_query,All good! How can I assist you today?
+what is the date,date_query,Let me tell you today’s date.
+tell me the date,date_query,Today’s date is displayed.
+current date,date_query,Showing current date.
+which day is it today,date_query,Let me check today’s day.
+tell me a joke,joke,Here’s a joke for you.
+make me laugh,joke,"Sure , i have a joke for you."
+I want to hear a joke,joke,Here’s a funny one.
+say something funny,joke,I’ll try to make you laugh.
+what’s the weather,weather,Let me check the weather.
+weather report,weather,I will give you the weather update.
+how is the weather,weather,Checking the current weather.
+current temperature,weather,Showing temperature right now.
+is it raining,weather,Let’s find out if it’s raining.
+search wikipedia,wikipedia,Searching Wikipedia for you.
+tell me about,wikipedia,Let me get information from Wikipedia.
+who is,wikipedia,I will look it up on Wikipedia.
+what is,wikipedia,Let me find it on Wikipedia.
+wikipedia,wikipedia,Searching Wikipedia now.
+open youtube,youtube,Opening YouTube for you.
+play video,youtube,Redirecting to YouTube.
+youtube,youtube,Launching YouTube now.
+watch video,youtube,Let’s open YouTube.
+search google,google,Here are the search results.
+google,google,Searching on Google.
+find on web,google,I will search it online.
+look up,google,Let’s check the web.
+web search,google,Searching the web for you.
+send whatsapp,whatsapp,Who should I message?
+whatsapp message,whatsapp,To whom should I send?
+text someone,whatsapp,What is the message?
+send message,whatsapp,I am ready to send your message.
+thanks,thanks,You’re welcome!
+thank you,thanks,No problem!
+thanks a lot,thanks,My pleasure!
+thank you very much,thanks,Always happy to help.
+bye,goodbye,Goodbye! Take care.
+see you later,goodbye,See you soon!
+exit,goodbye,Bye! Have a great day.
+goodbye,goodbye,Farewell!
+time,time_query,The current time is {time}.
+what is the time,time_query,The current time is {time}.
+can you tell me the time ,time_query,The current time is {time}.
+current time,time_query,The current time is {time}.
+tell me the time ,time_query,The current time is {time}.
